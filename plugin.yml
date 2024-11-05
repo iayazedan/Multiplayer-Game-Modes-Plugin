@@ -1,0 +1,7 @@
+name: GameModesPlugin
+main: com.yourusername.gamemodesplugin.Main
+version: 1.0
+commands:
+  ctf:
+    description: Capture the Flag commands
+    usage: /<command> <start|stop>
